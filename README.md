@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=venom&height=140&color=0:8080FF,100:98EdFF&text=Wel._.come&textBg=false&fontColor=000000&fontSize=80&descAlign=50&section=header&reversal=false)
 
-<!--
-**Ji-minhyeok/Ji-minhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+# 👋 Hi there, I'm Ji-minhyeok!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Experience
+- 🦁 **LikeLion Univ**  
+  _Backend Developer_  
+  **2023.03 ~ 2023.08**  
+
+- 🌐 **Google Developer Student Clubs (GDSC)**  
+  _Backend Developer_  
+  **2023.09 ~ 2024.12**  
+
+- ☁️ **AWS Cloud Clubs**  
+  _Cloud, Backend Developer_  
+  **2024.03 ~ 2024.05**  
+
+---
