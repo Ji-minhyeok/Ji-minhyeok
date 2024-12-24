@@ -15,7 +15,7 @@
 
 - 🌐 **Google Developer Student Clubs (GDSC)**  
   _Backend Developer_  
-  **2023.09 ~ 2024.12**  
+  **2023.09 ~ 2023.12**  
 
 - ☁️ **AWS Cloud Clubs**  
   _Cloud, Backend Developer_  
