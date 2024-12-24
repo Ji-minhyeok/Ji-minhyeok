@@ -4,7 +4,7 @@
 
 </div>
 
-# 👋 Hi there, I'm Ji-minhyeok!
+# 👋 Hi there, I'm minhyeok!
 
 ---
 
